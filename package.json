@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-udemy",
+  "version": "1.0.0",
+  "description": "nodejs backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoandk203/udemy-backend-nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Shinki189",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoandk203/udemy-backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/hoandk203/udemy-backend-nodejs#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
